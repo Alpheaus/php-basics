@@ -1,3 +1,3 @@
 <?php
-echo 1+1;
+echo 10+10;
 //git add .
